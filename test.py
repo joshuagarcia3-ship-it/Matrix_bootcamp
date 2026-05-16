@@ -4,7 +4,7 @@ from cocotb.triggers import ClockCycles
 
 import os
 import glob
-import itertools
+import itertools 
 from PIL import Image, ImageChops
 
 
